@@ -1,0 +1,5 @@
+*~
+*.html#
+*.lock
+
+_site/
